@@ -1,5 +1,6 @@
-#mobileTech
+#影响用户体验的WebView两三事
 
-A useful tools or tips list for mobile web application developing
-
-这个项目收集移动端开发所需要的一些资源与小技巧
+    虽然目前android和iphone是最主流的智能手机平台（WP平台哭去吧，FirefoxOS是啥？），并且自带的浏览器内核都是WebKit，但是对于做H5的同学来说还会受系统自身的影响某些CSS和Javascript进行兼容性制作；
+    
+##去除android上a标签产生的边框
+    
